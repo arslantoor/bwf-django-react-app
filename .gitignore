@@ -1,0 +1,6 @@
+.idea
+venv
+./bwf/db.sqlite3
+bwf-web/node_modules
+bwf-web/build
+bwf/api/migrations
